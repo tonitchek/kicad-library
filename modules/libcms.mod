@@ -1,5 +1,6 @@
 PCBNEW-LibModule-V1  Thu 29 Jan 2015 05:33:18 PM CET
 # encoding utf-8
+Units mm
 $INDEX
 1PIN_SMD
 8DIPCMS
